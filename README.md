@@ -1,5 +1,6 @@
 # Sea-Weather-and-Pollution-Transmitter-Buoy
-This project is under the Course No ECE-3108 and Title : Digital Communication Sessional
+This project is under the Course No ECE-3108 and Title : Digital Communication Sessional  
+Date: 06-04-2023
 
 The project is Supervised by  
 Dr. Md. Shamim Ahsan,  
